@@ -1,4 +1,4 @@
-# Hi there, I'm spark16x! 👋
+# Hi there, I'm spatk! 👋
 
 Welcome to my GitHub profile!
 
