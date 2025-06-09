@@ -23,6 +23,12 @@ My proudest creation! Jarvis.next is a showcase of my skills in building advance
 - **X (Twitter):** [@spark2009](https://x.com/spark2009)
 - **Web:** [jarvisnext.vercel.app](https://jarvisnext.vercel.app)
 
+## Conturbistion
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 Thanks for visiting my profile! Feel free to check out my repositories, contribute, or just say hi! 🚀
