@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Spark&animation=fadeIn" alt="Magic"></img>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+AU+SA&pause=1000&center=true&width=435&lines=Hi+I+am+Spark;Frontend+developer;Backend+developer;Creating+Jarvis" alt="Magic"></img>
 </p>
