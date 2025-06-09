@@ -14,6 +14,7 @@
 </picture>
 
 
+[![Years Badge](https://badges.pufler.dev/years/spark16x)](https://badges.pufler.dev)
 
 ## 🚀 About Me
 I'm a passionate **Developer** who loves building modern, interactive web experiences. My journey in tech is driven by curiosity, creativity, and a love for turning ideas into reality.
