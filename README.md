@@ -1,4 +1,12 @@
-# Hi there, I'm spatk! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Spark&fontSize=50&animation=fadeIn&fontAlignY=35&descAlignY=45" alt="Magic"></img>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spark16x/spark16x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spark16x/spark16x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spark16x/spark16x/output/github-contribution-grid-snake.svg">
+</picture>
 
 Welcome to my GitHub profile!
 
@@ -23,12 +31,7 @@ My proudest creation! Jarvis.next is a showcase of my skills in building advance
 - **X (Twitter):** [@spark2009](https://x.com/spark2009)
 - **Web:** [jarvisnext.vercel.app](https://jarvisnext.vercel.app)
 
-## Conturbistion
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spark16x/spark16x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spark16x/spark16x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spark16x/spark16x/output/github-contribution-grid-snake.svg">
-</picture>
+
 ---
 
 Thanks for visiting my profile! Feel free to check out my repositories, contribute, or just say hi! 🚀
