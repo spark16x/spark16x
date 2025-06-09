@@ -1,14 +1,18 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Spark&animation=fadeIn" alt="Magic"></img>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+AU+SA&pause=1000&center=true&width=435&lines=Hi+I+am+Spark;Frontend+developer;Backend+developer;Creating+Jarvis" alt="Magic"></img>
+</p>
 
-<picture>
+
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spark16x/spark16x/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spark16x/spark16x/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spark16x/spark16x/output/github-contribution-grid-snake.svg">
 </picture>
 
-Welcome to my GitHub profile!
+
 
 ## 🚀 About Me
 I'm a passionate **Developer** who loves building modern, interactive web experiences. My journey in tech is driven by curiosity, creativity, and a love for turning ideas into reality.
