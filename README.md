@@ -82,6 +82,9 @@ I'm a passionate **Developer** who loves building modern, interactive web experi
   </table>
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=spark16x&theme=github-dark-dimmed&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 ## 🌟 Favorite Project
 ### [Jarvis.next](https://jarvisnext.vercel.app)
 My proudest creation! Jarvis.next is a showcase of my skills in building advanced, interactive web apps. Check it out to see my work in action.
