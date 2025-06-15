@@ -82,8 +82,16 @@ I'm a passionate **Developer** who loves building modern, interactive web experi
   </table>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=spark16x&theme=github-dark-dimmed&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
 
+<h3> 🌟&emsp;My Stats ( CuZ whY NoT )&emsp;:</h3>
+<p>
+  <img align="top" src="https://github-readme-streak-stats.herokuapp.com?user=spark16x&theme=github-dark-dimmed&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeGeniusDev&show_icons=true&theme=radical" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeGeniusDev&theme=radical" alt="Top Languages">
+</p>
+
+---
 
 ## 🌟 Favorite Project
 ### [Jarvis.next](https://jarvisnext.vercel.app)
