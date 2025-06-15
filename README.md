@@ -95,7 +95,7 @@ My proudest creation! Jarvis.next is a showcase of my skills in building advance
 - **X (Twitter):** [@spark2009](https://x.com/spark2009)
 - **Web:** [jarvisnext.vercel.app](https://jarvisnext.vercel.app)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spark16x&bg_color=140e0e&color=9e4c98&line=ffbfbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 Thanks for visiting my profile! Feel free to check out my repositories, contribute, or just say hi! 🚀
