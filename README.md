@@ -14,7 +14,12 @@
 </picture>
 
 
-[![Years Badge](https://badges.pufler.dev/years/spark16x)](https://badges.pufler.dev)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=spark16x&label=Profile%20views&color=0e75b6&style=flat" alt="CodeGeniusDev" width="195" height="auto" />
+</p>
+
+  [![Years Badge](https://badges.pufler.dev/years/spark16x)](https://badges.pufler.dev)
 
 ## 🚀 About Me
 I'm a passionate **Developer** who loves building modern, interactive web experiences. My journey in tech is driven by curiosity, creativity, and a love for turning ideas into reality.
