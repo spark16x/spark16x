@@ -94,6 +94,8 @@ I'm a passionate **Developer** who loves building modern, interactive web experi
   <img align="top" src="https://github-readme-streak-stats.herokuapp.com?user=spark16x&theme=github-dark-dimmed&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak">
   <img src="https://github-readme-stats.vercel.app/api?username=spark16x&theme=onedark" alt="Github Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spark16x&theme=onedark" alt="Top Languages">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Spark16x&theme=onedark" />
 </p>
 
 ---
